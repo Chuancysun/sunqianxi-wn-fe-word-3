@@ -1,0 +1,88 @@
+
+
+.navigation{
+    font-family: LucidaGrande;
+        font-size: 24px;
+        color: #005FB3;
+        letter-spacing: 0.53px;
+        background: #FFFFFF;
+        box-shadow: 0 2px 12px 0 rgba(208,214,226,0.50);
+        height:80px;
+        width:1280px;
+        text-indent:150px;
+        line-height: 64px
+ }
+ .Home,.Publish,.Activity{
+     color: black;
+     font-size: 16px;
+
+ }
+
+ 
+
+.categories{
+    display: block;
+    float:right;
+    color: black;
+    list-style: none;
+}
+nav{
+    float:right;
+    word-spacing: 103px;
+    
+}
+
+.subfix{
+    font-size: 13px;
+}
+.top-left{
+    margin-top: 68px;
+    width: 180px;
+    float: left;
+    text-indent:0;
+    
+}
+.top-right{
+    width: 1000px;
+    height:2406px;
+    display: inline-block;
+    /* float:right; */
+    margin-left:80px;
+
+}
+
+.information{
+    height: 80px;
+    width:1004px;
+font-size: 14px;
+color:#005FB3;
+float: right;
+background-color: #FFFFFF;
+}
+.content{
+    width: 774px;
+    height:100%;
+    /* float: left; */
+    margin-left:120px;
+    text-indent: 0;
+    letter-spacing: normal;
+    line-height: normal;
+}
+#subfix{
+color: black;
+font-size: 12px; 
+}
+p{
+    color:black;
+    font-size:18px;
+}
+img>picture{
+    width: 80px;
+    height: 80px;
+    background:url("images/camera.png");
+    
+    
+}
+/* .checkbox{
+    float: left;
+} */
